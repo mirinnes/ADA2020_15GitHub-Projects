@@ -1,5 +1,8 @@
 # Practica maquetado <br>
 
+Final work achieved:  https://mirinnes.github.io/ADA2020_15GitHub-Projects/practica-maquetado/index.html
+
+
 ![Diseño a seguir](https://cdn.dribbble.com/users/522558/screenshots/5059613/dribble_static__1_.png)
 
 ## Instrucciones <br>
